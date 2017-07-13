@@ -1,0 +1,33 @@
+h1 {font-size: xx-large;  font-style: normal; font-family: "times new roman", serif; 
+		text-align: center;  font-weight: 900}
+h2 {font-size: x-large;    font-style: normal; font-family: "times new roman", serif;
+		text-align: center;  font-weight: 900}
+h3 {font-size: large;       font-style: normal; font-family: "times new roman", serif;
+		text-align: center;  font-weight: 700}
+h4 {font-size: medium;  font-style: normal; font-family: "times new roman", serif; 
+		text-align: left;  font-weight: 700}
+h5 {font-size: small;      font-style: normal; font-family: "times new roman", serif; 
+		text-align: center;  font-weight: 600}
+h6 {font-size: x-small;   font-style: normal; font-family: "times new roman", serif; 
+		text-align: center;  font-weight: 600}
+
+p  {text-indent: 1%; text-align: justify; font-size: medium; 
+    font-weight: 600; font-style: normal; font-family: "times new roman", serif; 
+	 background: #0000ff; color: #ffff00 }
+
+body {text-decoration: none; background: #ffff00; color:#0000ff; font-size: small; 
+	font-weight: 600; font-style: normal; font-family: "times new roman", serif; 
+	margin-left: 10px; margin-right: 10px; margin-top: 0px; margin-bottom: 0px }
+
+a:link {background: #ffff00; color: #ff00ff}
+a:visited {background: #ffff00; color: #800080}
+a:hover {background: #ffff00; color: #008080}
+a:active {background: #ffff00; color: #ff0000}
+
+.headingnew {text-decoration: none; background: #00ffff; color: #ff4000;
+	font-size: x-large;    font-style: normal; font-family: "times new roman", serif;
+		text-align: center;  font-weight: 900 }
+.heading {text-decoration: none; background: #00ffff; color: #ff4000}
+.previous {position: absolute; text-align: left; left: 40px; top: 300px}
+.next {position: absolute; text-align: right; top: 300px}
+.photo {table-layout: fixed}
